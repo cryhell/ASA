@@ -1,0 +1,14 @@
+[
+    {
+        "name": "JSI",
+        "science": 3,
+        "percentStatBonus": {"science": 35, "food": 13},
+        "specialistSlots": {"Scientist": 3},
+        "replaces": "University",
+        "uniqueTo": "Arcana",
+        "maintenance": 3,
+        "hurryCostModifier": 25,
+        "uniques": ["[+7 Science] from [Farm] tiles in this city"],
+        "requiredTech": "Education"
+    }
+]

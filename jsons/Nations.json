@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Ascana",
+		"leaderName": "Mirae",
+		"adjective": ["Ascanian"],
+		"startBias": ["Coast"],
+        "preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Greetings, Empress Mirae. Blessed with great intellect and knowledge which surpasses every living being in this world, may you rise and be the beacon to this world.",
+		"startIntroPart2": "Most courageous and magnanimous Empress, Ascana once again requires the service of a compassionate and determined leader, one who can reunite the country and establish a strong foundation for the years to come. Can you establish your nation through strong civil institutions, or will you work to conquer your enemies through the use of force? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I didn't want to do this, but I have no choice.",
+		"attacked": "I suppose you have a reason for this, but I won't let it slide!",
+		"defeated": "All that's done is done. It is my fate and I shall accept it.",
+		"introduction": "Welcome to Ascana. I am the Empress, Mirae.",
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["I'm all ears","Why, yes."]
+		"hateHello": "Greetings. What is your business here?",
+		"tradeRequest": "What do you think about this?",
+		"outerColor": [139,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Shinoue",
+		"uniques": ["[+5 Production] from every [Farm]"],"Double quantity of [Iron] produced"],"[+3 Science] from every specialist","[+3 Science] from every [Great Improvement]",
+			"Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"cities": ["Shanwei","Xinwei","Gyeongsong","Jansai","Chunje","Yeoju","Souraha","Sinjin","Jiaohai","Kaeju","Yuehai","Qinzihua",
+			"Shirahoma","Ranzawa","Qihou","Gwangcheon","Zhouyuan","Zhaoxiang","Hyesu","Xianyuan","Yuanzhou","Hamhae","Gangsan","Qijiang","Ikyeong","Jiaoyang",
+		    "Guangying","Jesong","Jinsu","Xuanliang","Tsenmani","Kangwon","Yangjin","Qinhai"]
+	}        	
+]

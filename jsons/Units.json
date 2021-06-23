@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Jade Samurai",
+		"unitType": "Melee",
+		"replaces": "Longswordsman",
+		"uniqueTo":"Arcana",
+		"movement": 2,
+		"strength": 34,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Jade Force",
+		"uniques": ["+[25]% combat bonus in [Hill]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Jungle]"],
+		"promotions":["Shock I"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Jade Force",
+		"unitType": "Melee",
+		"replaces": "Jade Samurai",
+		"uniqueTo":"Arcana",
+		"movement": 2,
+		"strength": 50,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Jade Special Force",
+		"uniques": ["+[30]% combat bonus in [Hill]","+[30]% combat bonus in [Forest]","+[30]% combat bonus in [Jungle]"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Jade Special Force",
+		"unitType": "Melee",
+		"replaces": "Jade Force",
+		"uniqueTo":"Arcana",
+		"movement": 2,
+		"strength": 75,
+		"cost": 390,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["+[35]% combat bonus in [Hill]","+[35]% combat bonus in [Forest]","+[35]% combat bonus in [Jungle]"],
+		"promotions":["Amphibious"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "JF-32", //modded
+		"unitType": "Fighter",
+		"movement": 2,
+		"strength": 65,
+		"rangedStrength": 95,
+		"range": 12,
+		"interceptRange": 12,
+		"cost": 435,
+		"requiredTech": "Lasers",
+		"uniques": ["[100]% chance to intercept air attacks","Bonus vs Bomber 150%","Consumes [1] [Aluminum]"],
+		"promotions": ["Air Recon"]
+	},
+]
